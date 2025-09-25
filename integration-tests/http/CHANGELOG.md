@@ -1,5 +1,34 @@
 # integration-tests-http
 
+## 1.0.26
+
+### Patch Changes
+
+- Updated dependencies [[`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536), [`295f6be146dff6650216259bdf3e64165e5e3691`](https://github.com/medusajs/medusa/commit/295f6be146dff6650216259bdf3e64165e5e3691), [`45f180a2b558edcf69603f3d8da983e92c4e212d`](https://github.com/medusajs/medusa/commit/45f180a2b558edcf69603f3d8da983e92c4e212d), [`1b57e5c58ab5c656da398b69444c2b9baba2e35e`](https://github.com/medusajs/medusa/commit/1b57e5c58ab5c656da398b69444c2b9baba2e35e), [`a501364b2d26a3ca0670eb345d9933b83964abc1`](https://github.com/medusajs/medusa/commit/a501364b2d26a3ca0670eb345d9933b83964abc1), [`730d73306d699634121a793f2b4049fd3e09bc47`](https://github.com/medusajs/medusa/commit/730d73306d699634121a793f2b4049fd3e09bc47), [`4c1c1dd4c0790597d7d881bb979bb9c8d8fd35e3`](https://github.com/medusajs/medusa/commit/4c1c1dd4c0790597d7d881bb979bb9c8d8fd35e3), [`cb716856b653c31178a5977b17ec77eed4c9c241`](https://github.com/medusajs/medusa/commit/cb716856b653c31178a5977b17ec77eed4c9c241), [`1fd439e321d8284ab7218333ab83125af66afb02`](https://github.com/medusajs/medusa/commit/1fd439e321d8284ab7218333ab83125af66afb02), [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186), [`458dd04bbf70159ec42254e91675c7a1f1d344d8`](https://github.com/medusajs/medusa/commit/458dd04bbf70159ec42254e91675c7a1f1d344d8), [`3960c80e9f55bdf41f9f257e12ed72c713577598`](https://github.com/medusajs/medusa/commit/3960c80e9f55bdf41f9f257e12ed72c713577598), [`92d30b28f45b4037cd73c180c8f257070cf49bd4`](https://github.com/medusajs/medusa/commit/92d30b28f45b4037cd73c180c8f257070cf49bd4)]:
+  - @medusajs/core-flows@2.10.4
+  - @medusajs/framework@2.10.4
+  - @medusajs/modules-sdk@2.10.4
+  - @medusajs/utils@2.10.4
+  - @medusajs/medusa@2.10.4
+  - @medusajs/test-utils@2.10.4
+  - @medusajs/api-key@2.10.4
+  - @medusajs/auth@2.10.4
+  - @medusajs/customer@2.10.4
+  - @medusajs/fulfillment@2.10.4
+  - @medusajs/inventory@2.10.4
+  - @medusajs/pricing@2.10.4
+  - @medusajs/product@2.10.4
+  - @medusajs/promotion@2.10.4
+  - @medusajs/region@2.10.4
+  - @medusajs/stock-location@2.10.4
+  - @medusajs/store@2.10.4
+  - @medusajs/tax@2.10.4
+  - @medusajs/user@2.10.4
+  - @medusajs/workflow-engine-inmemory@2.10.4
+  - @medusajs/cache-inmemory@2.10.4
+  - @medusajs/event-bus-local@2.10.4
+  - @medusajs/fulfillment-manual@2.10.4
+
 ## 1.0.25
 
 ### Patch Changes

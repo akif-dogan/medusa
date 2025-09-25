@@ -1,5 +1,21 @@
 # Change Log
 
+## 2.10.4
+
+### Patch Changes
+
+- [#13439](https://github.com/medusajs/medusa/pull/13439) [`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): Move peer deps into a single package and re export from framework
+
+- [#13038](https://github.com/medusajs/medusa/pull/13038) [`295f6be146dff6650216259bdf3e64165e5e3691`](https://github.com/medusajs/medusa/commit/295f6be146dff6650216259bdf3e64165e5e3691) Thanks [@trevster344](https://github.com/trevster344)! - fix-medusa-test-runner-premature-teardown
+
+- [#13546](https://github.com/medusajs/medusa/pull/13546) [`1fd439e321d8284ab7218333ab83125af66afb02`](https://github.com/medusajs/medusa/commit/1fd439e321d8284ab7218333ab83125af66afb02) Thanks [@willbouch](https://github.com/willbouch)! - fix(medusa-test-utils): add health endpoint in test server
+
+- [#13450](https://github.com/medusajs/medusa/pull/13450) [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186) Thanks [@adrien2p](https://github.com/adrien2p)! - chore(): Upgrade mikro orm 6.5.4
+
+- Updated dependencies [[`12a96a7c7015f011f5e29a1d387f835e514ba536`](https://github.com/medusajs/medusa/commit/12a96a7c7015f011f5e29a1d387f835e514ba536), [`730d73306d699634121a793f2b4049fd3e09bc47`](https://github.com/medusajs/medusa/commit/730d73306d699634121a793f2b4049fd3e09bc47), [`8ece06d8ed6a197ebb370918c49a3ec5c21dd186`](https://github.com/medusajs/medusa/commit/8ece06d8ed6a197ebb370918c49a3ec5c21dd186), [`458dd04bbf70159ec42254e91675c7a1f1d344d8`](https://github.com/medusajs/medusa/commit/458dd04bbf70159ec42254e91675c7a1f1d344d8), [`3960c80e9f55bdf41f9f257e12ed72c713577598`](https://github.com/medusajs/medusa/commit/3960c80e9f55bdf41f9f257e12ed72c713577598), [`92d30b28f45b4037cd73c180c8f257070cf49bd4`](https://github.com/medusajs/medusa/commit/92d30b28f45b4037cd73c180c8f257070cf49bd4)]:
+  - @medusajs/framework@2.10.4
+  - @medusajs/medusa@2.10.4
+
 ## 2.10.3
 
 ### Patch Changes
